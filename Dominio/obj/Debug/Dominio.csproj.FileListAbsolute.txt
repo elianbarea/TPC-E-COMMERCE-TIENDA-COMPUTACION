@@ -1,0 +1,23 @@
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\bin\Debug\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Dominio\obj\Debug\Dominio.pdb

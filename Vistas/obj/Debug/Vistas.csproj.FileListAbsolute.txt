@@ -1,0 +1,480 @@
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\Users\USUARIO\source\repos\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\Users\USUARIO\Desktop\TP CUATRIMESTRAL PROG 3\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\alex\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Vistas.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\csi.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.AppContext.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Console.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Http.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\vbc.rsp
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.bootstrap.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\AspNet.ScriptManager.jQuery.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.Web.Infrastructure.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\WebGrease.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\System.Web.Optimization.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Newtonsoft.Json.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Antlr3.Runtime.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\es\System.Web.Optimization.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TPC\REAL\TPC_BAREA_COSMO\Vistas\obj\Debug\Vistas.pdb
