@@ -8,7 +8,9 @@
 
      <div class="container text-center mt-4">
             <i class="fas fa-search  fa-x2 mt-5"></i> <asp:TextBox ID="txtbuscar" runat="server"  /> 
-    <asp:Button class="btn btn-group-sm btn-primary" Text="btnBuscar" runat="server" OnClick="Buscar_Click" />
+
+    <asp:Button class="btn btn-group-sm btn-primary" Text="Buscar" runat="server" OnClick="Buscar_Click"  />
+
 
     <div class="row ">
         <asp:Repeater runat="server" ID="repetidor">

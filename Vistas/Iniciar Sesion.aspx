@@ -1,21 +1,50 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Iniciar Sesion.aspx.cs" Inherits="Vistas.Iniciar_Sesion" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server" >
-    <div style="text-align:center;width:100%;height:100%">
-<div style="justify-content:center;" >
+    <div class="container ">   
+        <div class="row justify-content-center">   
+        <div class="card text-center" style="width: 30rem;">
+            <div class="card-header" style="background-color:white "> 
+                <h5>    INICIO DE SESION</h5>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvCfpcjuk5yw-VMg_4TffqyY_eaxx9t3p62HkUCREuAKGV5IR8Oqdx_i6940Xpl_q9ew&usqp=CAU" alt="Alternate Text" />
+            </div>
+  <div class="card-body">
+     <asp:TextBox runat="server" placeholder="Correo electronico" class="form-control" id="txtMail"/> 
+     <asp:TextBox runat="server" placeholder="Contraseña" class="form-control" id="TxtContrasenia" />    
+      <div class="card-footer" style="background-color:white ">
+      <asp:Button ID="Btniniciar" type="button" CssClass="btn btn-outline-primary mt-3" runat="server" Text="Iniciar Sesion" OnClick="Iniciar_Click" /> 
+      <asp:Button  type="button" CssClass="btn btn-outline-primary mt-3" runat="server" Text="Registrate"  /> 
 
-      <h5 >Correo electronico</h5>
-    <input  class="mb-4" type="text" id="TxtCorreo" placeholder="fulanito@gmail..." style="width:300px"/>
-         
-            <h5 style="">Contraseña</h5>
-    <input class="mb-4" type="text" id="TxtContraseña" placeholder="" style="width:300px"/>
-            <br />
-    <asp:CheckBox ID="ckbrecordar" runat="server" Text="recordar contraseña" />
-            <br />
-    <asp:Button ID="Btniniciar" runat="server" Text="Iniciar Sesion" />
-         
-            
+
+               
+          <%if (error == "error")
+              { %>
+          
+            <div class="alert alert-danger mt-3" role="alert">
+             Mail o Contraseña incorrectos!
+            </div>
+  
+          <% }%>
+
+          <% else if (error== "confirma")
+    {  %>
+          
+            <div class="alert alert-success mt-3" role="alert">
+             Creada con exito!
+            </div>
+          
+          <%} %>
+
+      </div> 
+  </div>
+</div>
 
 </div>
-        </div>
+
+
+    </div>
+
+
+         
+         
 </asp:Content>

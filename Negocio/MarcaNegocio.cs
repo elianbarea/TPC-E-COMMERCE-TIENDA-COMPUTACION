@@ -9,7 +9,7 @@ namespace Negocio
 {
    public class MarcaNegocio
     {
-        AccesoDatos ace = new AccesoDatos();
+        public AccesoDatos ace = new AccesoDatos();
         public List<Marca> listar_marca()
         {
             ///crea una lista de tipo producto
@@ -43,15 +43,29 @@ namespace Negocio
             }
         }
 
-        public void Agregar_marca()
+        public void agregar_Marca(Marca mar)
         {
+            AccesoDatos datos = new AccesoDatos();
 
+            datos.setearConsulta("insert into Marcas (Nombre) values (@nombre) ");
+            datos.AgregarParametro("@nombre", mar.Nombre);
+            datos.EjecutarLectura();
         }
 
         public void eliminar_marca(string consulta)
         {
             ace.setearConsulta(consulta);
             ace.EjecutarLectura();
+        }
+        public void modificar_Marca(Marca cat)
+        {
+
+            ace.setearConsulta("update Marcas set Nombre = @nombre where id= @id");
+            ace.AgregarParametro("@nombre", cat.Nombre);
+            ace.AgregarParametro("@id", Convert.ToString(cat.IDmarca));
+            ace.EjecutarLectura();
+
+
         }
 
 

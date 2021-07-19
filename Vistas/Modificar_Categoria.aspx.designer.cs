@@ -11,25 +11,16 @@ namespace Vistas
 {
 
 
-    public partial class ABML_eliminar
+    public partial class Modificar_Categoria
     {
 
         /// <summary>
-        /// Control btnEliminar.
+        /// Control Modificar_nombre.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnEliminar;
-
-        /// <summary>
-        /// Control btnCancelar.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCancelar;
+        protected global::System.Web.UI.WebControls.DropDownList Modificar_nombre;
     }
 }

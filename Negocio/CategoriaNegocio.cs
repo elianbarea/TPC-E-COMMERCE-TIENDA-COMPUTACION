@@ -9,7 +9,7 @@ namespace Negocio
 {
    public class CategoriaNegocio
     {
-        AccesoDatos ace = new AccesoDatos();
+       public AccesoDatos ace = new AccesoDatos();
         public List<Categoria> listar_Categoria()
         {
             ///crea una lista de tipo producto
@@ -43,10 +43,6 @@ namespace Negocio
             }
         }
 
-        public void Agregar_Categoria()
-        {
-
-        }
 
         public void eliminar_Categoria(string consulta)
         {
@@ -54,10 +50,34 @@ namespace Negocio
             ace.EjecutarLectura();
         }
 
-        public void agregar_categoria(string consulta)
+        public void agregar_categoria(Categoria cat)
         {
-            ace.setearConsulta(consulta);
+            AccesoDatos datos = new AccesoDatos();
+            
+            datos.setearConsulta("insert into Categorias (Nombre) values (@nombre) ");
+            datos.AgregarParametro("@nombre",cat.Nombre);
+            datos.EjecutarLectura();
+        }
+
+        public void modificar_Categoria(Categoria cat)
+        {
+
+            ace.setearConsulta("update Categorias set Nombre = @nombre where id= @id");
+            ace.AgregarParametro("@nombre", cat.Nombre);
+            ace.AgregarParametro("@id", Convert.ToString( cat.IDcategoria));
             ace.EjecutarLectura();
+
+
+        }
+        public void suspender_Categoria(Categoria cat)
+        {
+
+            ace.setearConsulta("update Categorias set Nombre = @nombre where id= @id");
+            ace.AgregarParametro("@nombre", cat.Nombre);
+            ace.AgregarParametro("@id", Convert.ToString(cat.IDcategoria));
+            ace.EjecutarLectura();
+
+
         }
 
 

@@ -106,12 +106,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ABML_CATEGORIA.aspx" />
-    <Content Include="ABML_eliminar.aspx" />
     <Content Include="ABML_Modificar.aspx" />
     <Content Include="ABML_PRODUCTO.aspx" />
-    <Content Include="AgregarCategoria_ABML.aspx" />
     <Content Include="AGREGAR_PRODUCTO.aspx" />
-    <Content Include="AMBL_MARCA.aspx" />
+    <Content Include="ABML_MARCA.aspx" />
     <Content Include="Carrito.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -133,6 +131,8 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Iniciar Sesion.aspx" />
+    <Content Include="Modificar_Categoria.aspx" />
+    <Content Include="Modificar_Marca.aspx" />
     <Content Include="Productos.aspx" />
     <Content Include="Registrarse.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -177,13 +177,6 @@
     <Compile Include="ABML_CATEGORIA.aspx.designer.cs">
       <DependentUpon>ABML_CATEGORIA.aspx</DependentUpon>
     </Compile>
-    <Compile Include="ABML_eliminar.aspx.cs">
-      <DependentUpon>ABML_eliminar.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ABML_eliminar.aspx.designer.cs">
-      <DependentUpon>ABML_eliminar.aspx</DependentUpon>
-    </Compile>
     <Compile Include="ABML_Modificar.aspx.cs">
       <DependentUpon>ABML_Modificar.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -198,13 +191,6 @@
     <Compile Include="ABML_PRODUCTO.aspx.designer.cs">
       <DependentUpon>ABML_PRODUCTO.aspx</DependentUpon>
     </Compile>
-    <Compile Include="AgregarCategoria_ABML.aspx.cs">
-      <DependentUpon>AgregarCategoria_ABML.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="AgregarCategoria_ABML.aspx.designer.cs">
-      <DependentUpon>AgregarCategoria_ABML.aspx</DependentUpon>
-    </Compile>
     <Compile Include="AGREGAR_PRODUCTO.aspx.cs">
       <DependentUpon>AGREGAR_PRODUCTO.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -212,12 +198,12 @@
     <Compile Include="AGREGAR_PRODUCTO.aspx.designer.cs">
       <DependentUpon>AGREGAR_PRODUCTO.aspx</DependentUpon>
     </Compile>
-    <Compile Include="AMBL_MARCA.aspx.cs">
-      <DependentUpon>AMBL_MARCA.aspx</DependentUpon>
+    <Compile Include="ABML_MARCA.aspx.cs">
+      <DependentUpon>ABML_MARCA.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="AMBL_MARCA.aspx.designer.cs">
-      <DependentUpon>AMBL_MARCA.aspx</DependentUpon>
+    <Compile Include="ABML_MARCA.aspx.designer.cs">
+      <DependentUpon>ABML_MARCA.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -251,6 +237,20 @@
     </Compile>
     <Compile Include="Iniciar Sesion.aspx.designer.cs">
       <DependentUpon>Iniciar Sesion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Categoria.aspx.cs">
+      <DependentUpon>Modificar_Categoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modificar_Categoria.aspx.designer.cs">
+      <DependentUpon>Modificar_Categoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modificar_Marca.aspx.cs">
+      <DependentUpon>Modificar_Marca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modificar_Marca.aspx.designer.cs">
+      <DependentUpon>Modificar_Marca.aspx</DependentUpon>
     </Compile>
     <Compile Include="Productos.aspx.cs">
       <DependentUpon>Productos.aspx</DependentUpon>

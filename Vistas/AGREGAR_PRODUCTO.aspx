@@ -43,7 +43,7 @@
   </div>
 
 <div class="d-grid gap-2; mt-3">
-       <asp:Button Text="AGREGAR PRODUCTO" class="btn btn-outline-success mb-5" runat="server" OnClick="Unnamed1_Click" />
+       <asp:Button Text="AGREGAR PRODUCTO" class="btn btn-outline-success mb-5" runat="server" OnClick="AGREGAR_Click" />
             </div>
 </div>
 

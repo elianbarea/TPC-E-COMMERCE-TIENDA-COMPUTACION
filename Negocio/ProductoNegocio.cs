@@ -92,7 +92,6 @@ namespace Negocio
         {
             AccesoDatos datos = new AccesoDatos();
             datos.setearConsulta("insert into Articulos ( Nombre , Imagen  , Descripcion , Idmarca , Precio , Stock , Estado, Idcategoria) values (@nombre, @IMG, @descrip, @marca, @precio, @stock, @estado, @categoria ) ");
-            datos.AgregarParametro("@id", Convert.ToString(pr.Id));
             datos.AgregarParametro("@nombre", pr.Nombre);
             datos.AgregarParametro("@descrip", pr.Descripion);
             datos.AgregarParametro("@stock", Convert.ToString(pr.stock));

@@ -11,25 +11,25 @@ namespace Vistas
 {
 
 
-    public partial class AgregarMarca_ABML
+    public partial class AMBL_MARCA
     {
 
         /// <summary>
-        /// Control txtNombre.
+        /// Control txtnombre.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNombre;
+        protected global::System.Web.UI.WebControls.TextBox txtnombre;
 
         /// <summary>
-        /// Control txTagregar.
+        /// Control REPETIDOR.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button txTagregar;
+        protected global::System.Web.UI.WebControls.Repeater REPETIDOR;
     }
 }

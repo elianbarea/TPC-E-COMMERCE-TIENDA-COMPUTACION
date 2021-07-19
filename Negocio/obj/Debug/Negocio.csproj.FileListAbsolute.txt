@@ -34,3 +34,12 @@ C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Nego
 C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Negocio\obj\Debug\Negocio.dll
 C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\Tienda Computacion\REAL\TPC_BAREA_COSMO\Negocio\obj\Debug\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\bin\Debug\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\bin\Debug\Negocio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\bin\Debug\Dominio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\bin\Debug\Dominio.pdb
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\obj\Debug\Negocio.dll
+C:\TODO\ESTUDIOS\UtN\2º ÑO\PROG 3\TRABAJO PRACTICO FINAL\TPC\Negocio\obj\Debug\Negocio.pdb

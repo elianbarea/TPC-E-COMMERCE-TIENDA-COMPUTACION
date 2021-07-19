@@ -34,12 +34,15 @@ namespace Negocio
         // ejecuta el comando y le pasa la la conexion ya establecida 
         public void EjecutarLectura()
         {
-            ///se le agrega la conexion con la base de datos a la consulta
-            comando.Connection = conexion;
-            ///abre la conexion
-            conexion.Open();
-            ///EJECUTA LA LECTURA DEL COMANDO Y LO GUARDA EN LECTOR YA EJECUTADO
-            lector = comando.ExecuteReader();
+
+                ///se le agrega la conexion con la base de datos a la consulta
+                comando.Connection = conexion;
+                ///abre la conexion
+                conexion.Open();
+                ///EJECUTA LA LECTURA DEL COMANDO Y LO GUARDA EN LECTOR YA EJECUTADO
+                lector = comando.ExecuteReader();
+
+
         }
 
          public void AgregarParametro (string nombre, string valor)

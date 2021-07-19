@@ -31,11 +31,11 @@
 
                         <p>  <%= producto.Marca %></p>
                         <p><% = producto.Precio %></p>
+
                         
-                            <button class="btn-danger"> 
-                                <a class="nav-link fs-7" style="color:black;" href="#">
-                                 Agregar a carrito</a>
-                                 </button>
+                        <asp:TextBox Type="number" runat="server" ID="txtCantidad" Text="1" />  
+                                <asp:Button Text="Agregar a carrito" CssClass="btn btn-danger" href="Carrito.aspx" runat="server" OnClick="CargarSesion_Click" />
+                               
                        
                         
                     </div>
@@ -59,4 +59,5 @@
             
             
 
+    </div>
 </asp:Content>

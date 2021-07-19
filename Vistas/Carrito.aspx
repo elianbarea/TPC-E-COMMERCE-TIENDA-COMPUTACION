@@ -1,54 +1,80 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Carrito.aspx.cs" Inherits="Vistas.Carrito" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="padre">
-        <div class="container">
-  <div class="row">
-    <div class="col-6">
-      PRODUCTO
-    </div>
-      <div class="col">
-          CANTIDAD
-      </div>
-      <div class="col">
-          PRECIO
-      </div>
-  </div>
-        </div>
 
-        <div class="container">
-            <div class="row justify-content-start">
-                <div class="col-1">
-                    <a href="#">
-                        <asp:Button Text="Eliminar" Class="btn  btn-outline-danger" style="color:black" runat="server" /> </a>
-                </div>
+     <div class="container mt-4">
+
+
+
+
+        <div class="row align-items-center">
+
+
+
+
+
+
+
+
+            <div class="col-12">
+                <table class="table" id="jose">
+                    <thead>
+                        <tr>
+                            <th scope="col">PRODUCTO</th>
+                            <th style="width: 100px">IMAGEN</th>
+
+                            <th scope="col">CANTIDAD</th>
+                            <th scope="col">PRECIO</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <% foreach (Dominio.ArticuloXcarrito item in Lista)
+                            {
+                        %>
+
+                            
+                           
+                        <tr>
+                            <th scope="row"><%=item.producto.Nombre %></th>
+                            <td>
+                                <img src="<%=item.producto.UrlImagen %>" height="50" width="50" /></td>
+                           
+                            <td>
+                                <p><%=item.Cantidad %></p>
+                            </td>
+                            <td>
+                                <p>$<%=item.sub_total %></p>
+                            </td>
+                         
+
+                        </tr>
+                        <%total += item.sub_total; } %> 
+                       <tr> 
+                         <th scope="col">Detalles</th>
+                         <td class="text-center"> 
+                             Total : $<%= total %>
+                         </td>    
+                            
+                            <td>
+                                    <a href="#" class="btn btn-outline-success mb-5" type="button">CONTINUAR CON LA COMPRA</a>
+                            </td>
+
+                       </tr>
+                  
+                    </tbody> 
+                 
+                </table>
+
             </div>
+
+
+
+
+
         </div>
-        <hr>
+   
 
-                <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-4">
-                    <p>ENVIO : $500.00</p> 
-                    <p>Total con envio : $0.00</p>
-
-                </div>
-            </div>
-        </div>
-                <hr>
-                        <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-4">
-        <a href="#" > <asp:Button Text="Continuar compra" Class="btn  btn-outline-warning" style="color:black" runat="server" /> </a>
-
-                </div>
-            </div>
-        </div>
-
-
-
-             
-    </div>
+ </div>
 
 
 

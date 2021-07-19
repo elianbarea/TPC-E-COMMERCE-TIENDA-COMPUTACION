@@ -33,8 +33,8 @@ Idcategoria int foreign key references Categorias (ID) not null
 )
 
 
-
-
+insert into TipoUsuario values (1, 'Usuario')
+insert into TipoUsuario values (2, 'Admin')
 
 CREATE TABLE TipoUsuario(
 Tipo smallint primary key not null default (1),
@@ -56,7 +56,6 @@ Nombre VARCHAR (30) NOT NULL,
 Direccion VARCHAR (40) NOT NULL,
 Telefono VARCHAR (20) NOT NULL,
 )
-
 
 
 CREATE TABLE Carrito (
@@ -81,6 +80,7 @@ Estado bit not null default (1),
 Fecha date not null,
 Dni varchar (8) NOT NULL FOREIGN KEY REFERENCES DetalleUsuarios (DNI),
 )
+select * from Articulos
 
 insert into Marcas values ('EVO POTENZA')
 insert into Categorias values ('Memorias ram')
@@ -94,10 +94,13 @@ Insert into Articulos (Nombre, Imagen, Descripcion,Idmarca,Precio,Stock,Idcatego
 Values ('Mother Gigabyte H310M-H LGA 1151 ', 'https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_7715_Mother_Gigabyte_H310M-H_LGA_1151_8va_gen__bdf6e65f-grn.jpg',
 ' Plataforma Intel, Socket 1151 Coffe Lake,  ',2 , 6000,4 ,2)
 
+insert into Usuario  values ('matiinsa@gmail.com', 'mati', 1 )
+insert into Usuario  values ('bareaelian@gmail.com', 'elian', 2 )
+select * from Usuario
+select Mail, Contraseña, tipo from Usuario where Mail = 'bareaelian@gmail.com' or Contraseña = 'elian'
+delete Usuario 
 
-select * from Articulos
-
- go
+go
 create view listar_articulo as 
 select a.Descripcion, a.Estado, a.ID, a.Idcategoria,
 a.Idmarca, a.Imagen, a.Nombre, a.Precio, a.Stock,
@@ -107,4 +110,24 @@ from Articulos a
 inner join Marcas m on m.ID = a.Idmarca
 inner join Categorias c on C.ID = a.Idcategoria
 
-select * from Articulos
+select * from Categorias
+
+update Marcas set Nombre ='Ryzen ' where id = 3
+
+update Categorias set Nombre ='Mothers ' where id = 1
+update Categorias set Nombre ='Procesador ' where id = 2
+update Categorias set Nombre ='Gabinete ' where id = 3
+update Categorias set Nombre ='Mouse ' where id = 4
+update Categorias set Nombre ='Placa de video ' where id = 5
+update Categorias set Nombre ='Memoria ram ' where id = 6
+
+---consutlamos si el mail existe y si existe la contra
+select * from Usuario where Mail = 'bareaelian@gmail.com' and Contraseña = 'elian'
+
+go
+create procedure Mail_Contra 
+(@email varchar (40),
+@contra varchar (15)
+)
+as
+select * from 

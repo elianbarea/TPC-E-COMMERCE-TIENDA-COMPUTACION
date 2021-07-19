@@ -11,17 +11,47 @@ namespace Vistas
 {
     public partial class Registrarse : System.Web.UI.Page
     {
-        public string consulta = "";
+        public AccesoDatos datos = new AccesoDatos();
+        public string error;
         protected void Page_Load(object sender, EventArgs e)
         {
            
         }
 
-        protected void Btniniciar_Click(object sender, EventArgs e)
+        protected void Registrar_Click(object sender, EventArgs e)
         {
-            ProductoNegocio nego = new ProductoNegocio();
-            consulta = "INSERT INTO Usuario (Mail,Contraseña,tipo) VALUES('" + txtcorreo.Text + "', '" + txtcontraseña.Text + "', '0');GO INSERT INTO DetalleUsuarios(DNI, Mail, Nombre, Direccion, Telefono)VALUES('12423', '" + txtcorreo.Text + "', '" + txtnombre.Text + "', '" + txtdireccion.Text + "', '" + txttelefono.Text + "'); GO";
-            nego.Registrar_Usuario(consulta);
+            PersonaNegocio persona = new PersonaNegocio();
+            string confirma = "confirma";
+            Usuario usuario = new Usuario();
+            Usuario usuarioaux = new Usuario();
+
+            usuario.Mail = txtcorreo.Text;
+            usuario.Contraseña = txtcontraseña.Text;
+         
+            usuarioaux = persona.Verificar_Mail(usuario);
+
+            if (usuarioaux.Mail == null) {
+            usuarioaux.Contraseña = txtConfirma.Text;
+                if (usuario.Contraseña == usuarioaux.Contraseña) { 
+
+                persona.agregar_Persona(usuario);
+            
+                Response.Redirect("Iniciar Sesion.aspx?key="+ confirma);
+                }
+                else {
+
+                    error = "no";
+                }
+            }
+
+
+            else {
+
+                error = "error";
+            }
+
+
+
         }
     }
 }

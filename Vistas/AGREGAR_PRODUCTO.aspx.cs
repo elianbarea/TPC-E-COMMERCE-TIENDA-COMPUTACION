@@ -47,10 +47,9 @@ namespace Vistas
 
         }
 
-        protected void Unnamed1_Click(object sender, EventArgs e)
+        protected void AGREGAR_Click(object sender, EventArgs e)
         {
             ProductoNegocio productomodificado = new ProductoNegocio();
-
 
             Producto AGREGAR = new Producto();
             marca = marcanegocio.listar_marca();
@@ -58,12 +57,6 @@ namespace Vistas
 
 
 
-
-            var id = Request.QueryString["id"];
-
-
-            if (id != null) {
-                AGREGAR.Id = Convert.ToInt32(id);
                 AGREGAR.Nombre = txtnombre.Text;
                 AGREGAR.Descripion = txtDesc.Text;
                 AGREGAR.estado = true;                
@@ -74,7 +67,6 @@ namespace Vistas
                 AGREGAR.UrlImagen = txtURL.Text;
 
                 productomodificado.agregar_producto(AGREGAR);
-            }
             Response.Redirect("ABML_PRODUCTO");
         }
     }
