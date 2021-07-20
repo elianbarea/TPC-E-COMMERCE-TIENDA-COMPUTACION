@@ -28,11 +28,13 @@
                         </tr>
                     </thead>
                     <tbody>
+                        <%if (Lista != null)
+                            { %>
                         <% foreach (Dominio.ArticuloXcarrito item in Lista)
                             {
                         %>
 
-                            
+                           
                            
                         <tr>
                             <th scope="row"><%=item.producto.Nombre %></th>
@@ -48,7 +50,9 @@
                          
 
                         </tr>
-                        <%total += item.sub_total; } %> 
+                        <%total += item.sub_total;
+                            } %> 
+                        
                        <tr> 
                          <th scope="col">Detalles</th>
                          <td class="text-center"> 
@@ -60,7 +64,12 @@
                             </td>
 
                        </tr>
-                  
+                        <%} %>
+                        <%else{ %>
+                                                   
+                       
+
+                        <%} %>
                     </tbody> 
                  
                 </table>
