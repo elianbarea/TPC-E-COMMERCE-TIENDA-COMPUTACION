@@ -48,7 +48,7 @@
     
 
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light" style="text-align:center;">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light " style="text-align:center;">
   <div class="container-fluid">
     <a class="navbar-brand" href="Default">Negocio</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,8 +56,8 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <ul class="navbar-nav">
-        <li>  <a class="nav-link" href="Default">Inicio</a></li>
+      <ul class="navbar-nav ">
+        <li >  <a class="nav-link" href="Default">Inicio</a></li>
         <li> <a class="nav-link" href="Productos">Productos</a></li>
           <%-- general --%>
           <%if (usu.Tipo == 3)
@@ -68,20 +68,26 @@
           <%-- logeado --%>
           <%else if (usu.Tipo == 1){ %>
         <li> <a class="nav-link" href="Carrito">Carrito</a> </li>
+        <li> <a class="nav-link" href="Default?SALIR=<%= 1 %>">SALIR</a> </li>
           <%} %>
           <%-- admin --%>
           <%else
                                  { %>
-        <li>  <a class="nav-link" href="ABML_CATEGORIA.aspx">ABML_CATEGORIA</a></li>
-        <li> <a class="nav-link" href="ABML_MARCA.aspx">ABML_MARCA</a></li>
-        <li> <a class="nav-link" href="ABML_PRODUCTO.aspx">ABML_PRODUCTO</a> </li>
+        <li>  <a class="nav-link" href="ABML_CATEGORIA.aspx">CATEGORIA</a></li>
+        <li> <a class="nav-link" href="ABML_MARCA.aspx">MARCA</a></li>
+        <li> <a class="nav-link"   href="ABML_PRODUCTO.aspx">PRODUCTO</a> </li>
+        <li> <a class="nav-link" href="Default?SALIR=<%= 1 %>">SALIR</a> </li>
+
 
           <%} %>
       </ul>
     </div>
+    
 
   </div>        
 </nav>
+
+
 
     <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">

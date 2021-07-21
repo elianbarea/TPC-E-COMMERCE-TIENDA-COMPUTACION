@@ -18,6 +18,11 @@ namespace Vistas
         {
             usu.Tipo = 3;
 
+            int ID1 = Convert.ToInt32(Request.QueryString["SALIR"]);
+            if (ID1 == 1) {
+                Session[Session.SessionID + "Usuario_Sesion"] = null;
+            }
+
             if (Session[Session.SessionID + "Usuario_Sesion"] != null) {
                 usu = (Usuario)Session[Session.SessionID + "Usuario_Sesion"];
             }
