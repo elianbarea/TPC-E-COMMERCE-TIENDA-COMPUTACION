@@ -60,7 +60,7 @@
                          </td>    
                             
                             <td>
-                                    <a href="#" class="btn btn-outline-success mb-5" type="button">CONTINUAR CON LA COMPRA</a>
+                                    <a href="Formulario.aspx" class="btn btn-outline-success mb-5" type="button">CONTINUAR CON LA COMPRA</a>
                             </td>
 
                        </tr>

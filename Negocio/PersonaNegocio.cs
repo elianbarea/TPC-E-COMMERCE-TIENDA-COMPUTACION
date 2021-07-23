@@ -131,6 +131,80 @@ namespace Negocio
 
         }
 
+        ///DATOS PERSONAS
+        ///
+        public List<DatosUsuario> listar_Datos()
+        {
+
+            List<DatosUsuario> usu = new List<DatosUsuario>();
+
+            try
+            {
+                datos.setearConsulta("Select * DetalleUsuarios");
+                datos.EjecutarLectura();
+
+                while (datos.lector.Read())
+                {
+                    DatosUsuario aux = new DatosUsuario();
+        aux.DNI = (string) datos.lector["DNI"];
+        aux.MAIL = (string) datos.lector["Mail"];
+        aux.NOMBRE = (string) datos.lector["Nombre"];
+        aux.Direccion = (string)datos.lector["Direccion"];
+        aux.Telefono = (string)datos.lector["Telefono"];
+
+                    usu.Add(aux);
+
+                }
+                return usu;
+            }
+            catch (Exception)
+            {
+
+                 throw;
+            }
+
+
+        }
+
+        public void agregar_Detalles_Usuario(DatosUsuario usu)
+        {
+            datos.setearConsulta("insert into DetalleUsuarios(DNI, Mail, Nombre,Direccion,Telefono ) values (@dni,@mail,@nombre,@direc, @telefono)");
+            datos.AgregarParametro("@dni", usu.DNI);
+            datos.AgregarParametro("@mail", usu.MAIL);
+            datos.AgregarParametro("@nombre", usu.NOMBRE);
+            datos.AgregarParametro("@direc", usu.Direccion);
+            datos.AgregarParametro("@telefono", usu.Telefono);
+
+            datos.EjecutarLectura();
+
+
+        }
+        public DatosUsuario Buscarpersona (Usuario usu)
+        {
+            DatosUsuario usuario = new DatosUsuario();
+
+
+
+            int dni = 42567578;
+
+
+
+
+
+            datos.setearConsulta("select * from DetalleUsuarios where DNI =" + dni ) ;
+            datos.EjecutarLectura();
+
+            if (datos.lector.Read()) {
+            usuario.DNI = (string)datos.lector["DNI"];
+            usuario.MAIL = (string)datos.lector["Mail"];
+            usuario.NOMBRE = (string)datos.lector["Nombre"];
+            usuario.Direccion = (string)datos.lector["Direccion"];
+            usuario.Telefono = (string)datos.lector["Telefono"];
+ }
+            return usuario;
+
+        }
+
     }
 
 

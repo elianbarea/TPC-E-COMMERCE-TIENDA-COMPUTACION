@@ -56,6 +56,11 @@ Nombre VARCHAR (30) NOT NULL,
 Direccion VARCHAR (40) NOT NULL,
 Telefono VARCHAR (20) NOT NULL,
 )
+delete from DetalleUsuarios
+select * from DetalleUsuarios 
+
+select * from DetalleUsuarios u
+inner jo
 
 
 CREATE TABLE Carrito (
@@ -80,7 +85,6 @@ Estado bit not null default (1),
 Fecha date not null,
 Dni varchar (8) NOT NULL FOREIGN KEY REFERENCES DetalleUsuarios (DNI),
 )
-select * from Articulos
 
 insert into Marcas values ('EVO POTENZA')
 insert into Categorias values ('Memorias ram')
