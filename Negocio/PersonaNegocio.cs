@@ -140,7 +140,8 @@ namespace Negocio
 
             try
             {
-                datos.setearConsulta("Select * DetalleUsuarios");
+                datos.setearConsulta("Select * from DetalleUsuarios");
+
                 datos.EjecutarLectura();
 
                 while (datos.lector.Read())

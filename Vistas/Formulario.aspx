@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Formulario.aspx.cs" Inherits="Vistas.Formulario" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
+    <% if(Cargados ==0) {%>
     <h3 class="text-center">RELLENE LOS CAMPOS CON SUS DATOS</h3>
 
               <div class="container">
@@ -30,7 +31,11 @@
       <label for="exampleFormControlInput1" class="form-label"></label>
        <asp:TextBox runat="server" placeholder="Direccion"  class="form-control" id="TextDirec" />  
 </div>
-</div>
+</div><% }%>
+    <%if (Cargados == 1)
+        { %>
+        <h3 class="text-center">RELLENE LOS CAMPOS DE PAGO</h3><%} %>
+
               <div class="col; mt-2" ><div class="mb-3">Tarjeta de credito
               <asp:DropDownList  ID="DropDownList1"   runat="server" class="form-control" >
                   <asp:ListItem>VISA</asp:ListItem>
